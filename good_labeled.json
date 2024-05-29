@@ -1,0 +1,2504 @@
+[
+    {
+        "id": 1,
+        "name": "AutoModerator",
+        "comment": "",
+        "toxicity": 0
+    },
+    {
+        "id": 2,
+        "name": "DanYHKim",
+        "comment": "In fact, the brain models for higher score participants also needed more time to solve challenging tasks but made fewer errors.\nI haven't read in detail. Do they make a distinction between \"coming to a solution to the problem\" vs \"coming to the correct solution to the problem\"?\nI've worked with people who could find solutions to problems very quickly, but they were also wrong.",
+        "toxicity": 0
+    },
+    {
+        "id": 3,
+        "name": "sanguinesolitude",
+        "comment": "67 times 342? 12000!\nBoom didn't even take me a second!",
+        "toxicity": 0
+    },
+    {
+        "id": 4,
+        "name": "KanadainKanada",
+        "comment": "Additionally: Coming randomly to the solution. Esp. if the answers are few how do they even test 'right from random'?",
+        "toxicity": 0
+    },
+    {
+        "id": 5,
+        "name": "P4azz",
+        "comment": "I've only skimmed the article, but it sounded like they were much more interested in the theoretical brain models they built and the relevation that \"lower IQ people think less about decisions\", than actually having the title make sense.\nBecause, as you said, yes, stupid people will come to a conclusion quicker. Doesn't mean they're right and the title even implying that is already a little clickbaity. Also absolutely obvious, of course.\nA toddler is also gonna finish a painting faster than an adult artist. Doesn't mean the multi-colored handprint, smeared across the canvas is the same as the Mona Lisa.",
+        "toxicity": 1
+    },
+    {
+        "id": 6,
+        "name": "theArtOfProgramming",
+        "comment": "Most interesting to me is the primary goal of this work, that they developed a learning algorithm to identify on the human brain structures and then were able to make inferences based on which structures were faster/better at which problems. That\u2019s super cool.\nFull Abstract\nTo better understand how network structure shapes intelligent behavior, we developed a learning algorithm that we used to build personalized brain network models for 650 Human Connectome Project participants. We found that participants with higher intelligence scores took more time to solve difficult problems, and that slower solvers had higher average functional connectivity. With simulations we identified a mechanistic link between functional connectivity, intelligence, processing speed and brain synchrony for trading accuracy with speed in dependence of excitation-inhibition balance. Reduced synchrony led decision-making circuits to quickly jump to conclusions, while higher synchrony allowed for better integration of evidence and more robust working memory. Strict tests were applied to ensure reproducibility and generality of the obtained results. Here, we identify links between brain structure and function that enable to learn connectome topology from noninvasive recordings and map it to inter-individual differences in behavior, suggesting broad utility for research and clinical applications.",
+        "toxicity": 0
+    },
+    {
+        "id": 7,
+        "name": "AndrewH73333",
+        "comment": "I guess we know which type of person wrote this headline.",
+        "toxicity": 0
+    },
+    {
+        "id": 8,
+        "name": "Necessary-Feature576",
+        "comment": "Smart people don't jump to conclusions so that they can move on to the next thing. They know that the problem will creep back up if the root of the issue wasnt addressed",
+        "toxicity": 0
+    },
+    {
+        "id": 9,
+        "name": "giuliomagnifico",
+        "comment": "Paper\nLearning how network structure shapes decision-making for bio-inspired computing\nhttps://www.nature.com/articles/s41467-023-38626-y\nResting-state functional MRI scans showed that slower solvers had higher average functional connectivity, or temporal synchrony, between their brain regions. In personalized brain simulations of the 650 participants, the researchers could determine that brains with reduced functional connectivity literally \u201cjump to conclusions\u201d when making decisions, rather than waiting until upstream brain regions could complete the processing steps needed to solve the problem.",
+        "toxicity": 0
+    },
+    {
+        "id": 10,
+        "name": "AbouBenAdhem",
+        "comment": "Probably why brains are so variable, so a population of humans will include people with an assortment of different problem-solving strengths.",
+        "toxicity": 0
+    },
+    {
+        "id": 11,
+        "name": "ryry1237",
+        "comment": "But according to the paper, intelligent brains also make fewer errors and are less likely to skip to conclusions, so there isn't really a clearly stated benefit to having a less intelligent brain.",
+        "toxicity": 0
+    },
+    {
+        "id": 12,
+        "name": "squatchi",
+        "comment": "This is obviously a misleading headline. The finding was that the lower IQ brains formed a conclusion prior to solving the problem. It did NOT find that the lower iq brains solved the problems faster.",
+        "toxicity": 0
+    },
+    {
+        "id": 13,
+        "name": "knotacylon",
+        "comment": "Disclaimer; did not read the article. Were all proposed solutions equal, or were some better than others, were some simply incorrect? Does this study compare the quality of the solutions these two different groups came up with, or only the speed at which they came up with the solutions?",
+        "toxicity": 0
+    },
+    {
+        "id": 14,
+        "name": "dontpet",
+        "comment": "For every complex problem there is a simple answer, that is incorrect.",
+        "toxicity": 0
+    },
+    {
+        "id": 15,
+        "name": "CronoDAS",
+        "comment": "The simulations based on scans of \"smarter\" people's brains were slower but made fewer errors:\nIn fact, the brain models for higher score participants also needed more time to solve challenging tasks but made fewer errors.",
+        "toxicity": 0
+    },
+    {
+        "id": 16,
+        "name": "[deleted]",
+        "comment": "I mean, reading the article answers most of these questions...",
+        "toxicity": 1
+    },
+    {
+        "id": 17,
+        "name": "NT-transit",
+        "comment": "Here come the \"its literally me fr fr\" comments now that this is on the front page",
+        "toxicity": 0
+    },
+    {
+        "id": 18,
+        "name": "tklite",
+        "comment": "This perfectly describes the different types of Redditors--those who only read the headline, those who read the article, and those who read the study... and then those who read the study and then get lost in the references.",
+        "toxicity": 0
+    },
+    {
+        "id": 19,
+        "name": "mercurysnowman",
+        "comment": "what about those (me) who read neither headline nor article and come straight to see the comments",
+        "toxicity": 0
+    },
+    {
+        "id": 20,
+        "name": "Healthy-Leg8205",
+        "comment": "It takes longer because intelligent people consider the issue from multiple angles. And then decide what the question is really asking. It's reasoning and logic mostly",
+        "toxicity": 0
+    },
+    {
+        "id": 21,
+        "name": "UnfortunatelyEvil",
+        "comment": "Could be wrong, but it didn't seem like brains making similar quality of answers were compared to each other (low IQ score vs high IQ score, both completing tasks at 90% success rate).\nAs such, I can complete any task faster than light:\nI am done. Am I done with every task people will imagine as they read this? Yes. Are they successfully completed? No.",
+        "toxicity": 0
+    },
+    {
+        "id": 22,
+        "name": "drabpiic",
+        "comment": "So that's why it's taking me so long to figure out life and stuff.",
+        "toxicity": 0
+    },
+    {
+        "id": 23,
+        "name": "The_Middle_Guy",
+        "comment": "Intelligence takes time to make sure. Idiots wing it or don\u2019t care to know why. The answer always has been a question \u201cwhy?\u201d. It\u2019s how we became intelligent.",
+        "toxicity": 0
+    },
+    {
+        "id": 24,
+        "name": "FarceMultiplier",
+        "comment": "I don't doubt this at all. I've often found myself second-guessing and wondering what I missed before solving complete issues.\nI guess less intelligent people use the Dunning-Kruger effect to their benefit on occasion, sadly causing confirmation bias with them thinking they are more intelligent than they actually are.",
+        "toxicity": 0
+    },
+    {
+        "id": 25,
+        "name": "CombustiblSquid",
+        "comment": "They may take longer, but what's the info on quality of decision outcome? Measure twice, cut once, and all that.",
+        "toxicity": 0
+    },
+    {
+        "id": 26,
+        "name": "Karma_Gardener",
+        "comment": "Take longer yes... but were the low IQ getting the right answer? Or just answering fast and wrong?\nDifficult problems require thought and thought typically takes more time.\nStrange title",
+        "toxicity": 0
+    },
+    {
+        "id": 27,
+        "name": "TUFFESTCUNT",
+        "comment": "It must be true - morons have high confidence",
+        "toxicity": 1
+    },
+    {
+        "id": 28,
+        "name": "Gasonfires",
+        "comment": "Not surprising. Intelligent people consider more possibilities than people of lesser intelligence.\nEdit: The bar exam, for example, is not about knowing any single answer as much as it is about showing that you know what issues are presented by a stated set of facts. The people who pass are those who are able to ask the right questions.",
+        "toxicity": 0
+    },
+    {
+        "id": 29,
+        "name": "Darkhorseman81",
+        "comment": "I get this problem where I see too many possible pathways to solutions.\nBrain almost pushes itself into sensory overload with potentials.",
+        "toxicity": 0
+    },
+    {
+        "id": 30,
+        "name": "bemyusernamename",
+        "comment": "\"I'm fast at mental arithmetic\"\n\"What's 326x25?\"\n\"1024\"\n\"That's not even close!\"\n\"But it was fast\"",
+        "toxicity": 0
+    },
+    {
+        "id": 31,
+        "name": "BusinessNonYa",
+        "comment": "I overthink simple problems and get no solution.",
+        "toxicity": 0
+    },
+    {
+        "id": 32,
+        "name": "willpowerpt",
+        "comment": "They may have taken longer on more difficult problems, but they were also more often correct on the more difficult problems.",
+        "toxicity": 0
+    },
+    {
+        "id": 33,
+        "name": "Motor_Sock459",
+        "comment": "stupid people, especially online are so ignorant of big complex problems they think they can solve it easily.\nFor example world hunger, DUHH DURRR JUST GIVE THIS MUCH MONEYD DUDRRHRHRHR",
+        "toxicity": 1
+    },
+    {
+        "id": 34,
+        "name": "ziffonzain",
+        "comment": "Well, Im very slow at solving problems. I'll take the compliment scientists.",
+        "toxicity": 0
+    },
+    {
+        "id": 35,
+        "name": "Nickwharton92",
+        "comment": "After reviewing the research article and going through the comments in the Reddit thread, I noticed that one aspect that hasn't been brought up yet is the potential application of these findings in the field of artificial intelligence (AI). In the research, Professor Petra Ritter and her team effectively created \"brain avatars\" that replicated the decision-making patterns and intellectual performance of their biological counterparts1.\nA key take-away from this study is that higher synchronization, or the formation of functional networks in the brain, affects the properties of working memory and thus the ability to endure prolonged periods without a decision. This gathering of evidence for a particular solution may sometimes take longer, but it leads to better results1.\nThis understanding of the role of synchronization in decision-making and problem-solving could have implications for the development of AI. By mimicking the \"slow thinking\" approach of intelligent human brains, we could potentially develop AI systems that are better at problem-solving and decision-making, even if they take a bit longer to arrive at a decision. Such AI systems would be particularly beneficial in complex, real-world situations where the cost of an incorrect decision could be high.\nFurthermore, the study's findings could influence how we interpret the speed of decision-making in AI systems. Rather than equating speed with intelligence, we might need to consider the complexity of the problem at hand and the potential for errors in quick decision-making.\nFinally, one of the most exciting aspects of this research is its potential applications in personalized medicine. The computer-based brain avatars used in the study could be used in the future for personalized in silico planning of surgical and drug interventions as well as therapeutic brain stimulation.\nI hope this brings a new perspective to the discussion!\nGPT",
+        "toxicity": 0
+    },
+    {
+        "id": 36,
+        "name": "dweeeezil",
+        "comment": "Another garbage title common for this subreddit. Hey mod, can you clean up this trash?",
+        "toxicity": 0
+    },
+    {
+        "id": 37,
+        "name": "Sigan",
+        "comment": "Doesn't IQ measure the ability to regurgitate memorized information and recognize patterns? In such a case, it wouldn't be surprising that those that could do well on an IQ test would be able to solve more simple problems quickly.\nThat said, I agree with other posts about coming to the correct solution rather than just, \"a solution.\"",
+        "toxicity": 0
+    },
+    {
+        "id": 38,
+        "name": "Lolusrsye",
+        "comment": "The question is\u2026 how did the lower IQ scoring people figure out the hard stuff? At a certain point. Diminishing returns is going to start to show.\nI believe that is the point of having a higher IQ, you\u2019re availing to analyze higher level computations.",
+        "toxicity": 0
+    },
+    {
+        "id": 39,
+        "name": "wanderinggoat",
+        "comment": "It's obvious, they got the answer wrong",
+        "toxicity": 0
+    },
+    {
+        "id": 40,
+        "name": "FantasticSuperNoodle",
+        "comment": "Wondering how people with higher intelligence tend to have higher levels of anxiety, and therefore I\u2019m wondering if they also think more thoroughly through problems, weigh more possibilities, (possibly even second guessing things) and take more time.",
+        "toxicity": 0
+    },
+    {
+        "id": 41,
+        "name": "bryan19973",
+        "comment": "Let me think about this for a bit\u2026",
+        "toxicity": 0
+    },
+    {
+        "id": 42,
+        "name": "Lifeis_not_fair",
+        "comment": "Watch how quickly I solve the conundrum of how stupid this study is",
+        "toxicity": 1
+    },
+    {
+        "id": 43,
+        "name": "TheHunnyRunner",
+        "comment": "Turns out, Daniel Kahneman's book \"thinking, fast and slow\" wasn't named that just to sound cool.",
+        "toxicity": 0
+    },
+    {
+        "id": 44,
+        "name": "shoonseiki1",
+        "comment": "I will sometimes take longer to solve problems than my friends at say escape rooms because I'm actually solving to get the correct answer, whereas some of my friends will employ the shotgun method and just do the most random things until one of them works. I could do their method too but it's not fun to me even if occasionally it's faster. Many of the better escape room puzzles I've seen can't be solved in that matter.",
+        "toxicity": 0
+    },
+    {
+        "id": 45,
+        "name": "therealsix",
+        "comment": "So, my IQ is higher then normal (just being factual, it relates to my reply). I remember sitting in meetings and being asked pointed questions about Sales and feeling that I'd like to take some time to analyze the question, to which my \"boss\" would get frustrated that I didn't immediately just throw out an arbitrary reply like others were doing. It always pissed me off because I knew I'd have a great answer but I'd prefer to actually rhink about it before I blurted something out immediately.",
+        "toxicity": 0
+    },
+    {
+        "id": 46,
+        "name": "AtomicTardigrade",
+        "comment": "Consider this as doing more compute iterations on a computer over doing less. It'll take longer, but the result will be more accurate. Brain probably goes through more hoops of \"compute\" to deliver result.\nAlso it's very dependent on determination and person's state of mind. I for example always try to consider more options and possibilities before saying the result and someone else will just shoot the first thing that comes to mind they think is right, whether that's true or not, they don't really consider it.",
+        "toxicity": 0
+    },
+    {
+        "id": 47,
+        "name": "seudonym_",
+        "comment": "There's a pretty simple explanation for this:\nMore intelligent and more knowledgeable = running it through more variables and and possibilities and more tests, therefore more time to arrive at a conclusion.\nLess intelligent and less knowledgeable = less variables, less possibilities and less tests, therefore arriving at a conclusion quicker.\nSimple tasks have less variables and possibilities, therefore do not require as much analysis....",
+        "toxicity": 0
+    },
+    {
+        "id": 48,
+        "name": "kukulkhan",
+        "comment": "Smart person : if I the goal is to get from A to C, then that\u2019s easily achievable by doing A, then B and then C. BUT what if something happens before C or after A ? Uhm.. maybe a better way to solve it would be to move from A to B and then confirm I\u2019m on B, look back at A and look forward to B. Ah yes, that makes sense and then move to C and confirm I\u2019m in the right spot.\nDumb person: if the goal is to get from A to C, I\u2019ll just move from A to C.",
+        "toxicity": 0
+    },
+    {
+        "id": 49,
+        "name": "luizgzn",
+        "comment": "The fools are full of certainty, the wise are full of doubt",
+        "toxicity": 0
+    },
+    {
+        "id": 50,
+        "name": "PoisonousNudibranch",
+        "comment": "Misleading title",
+        "toxicity": 0
+    },
+    {
+        "id": 51,
+        "name": "WideBlock",
+        "comment": "all this means is that IQ tests are garbage and there is no fool proof way of \"measuring \" intelligence. this is a really dumb, dumb study as rather than say we used false way of measuring intelligence, they are making conclusions base on the the false premise. this is same as the fruit of poisonous tree doctrine.",
+        "toxicity": 1
+    },
+    {
+        "id": 52,
+        "name": "FlyBoyG",
+        "comment": "I wonder if this explains why some people take really long to do exams and other do not. Perhaps the smarter students stay till the end.",
+        "toxicity": 0
+    },
+    {
+        "id": 53,
+        "name": "Oceanswave",
+        "comment": "More parameters, more time inference time. Makes sense.",
+        "toxicity": 0
+    },
+    {
+        "id": 54,
+        "name": "eyesmaybe",
+        "comment": "I have thought about these findings for 20 hours, proving my massive intellect.",
+        "toxicity": 0
+    },
+    {
+        "id": 55,
+        "name": "damnatio_memoriae",
+        "comment": "the brain models for higher score participants also needed more time to solve challenging tasks but made fewer errors.\nseems pretty intuitive when you don\u2019t truncate those last four words",
+        "toxicity": 0
+    },
+    {
+        "id": 56,
+        "name": "marilern1987",
+        "comment": "Intelligent people will look at something and say \u201cthere\u2019s probably more to this than meets the eye\u201d or \u201cmaybe this is the result of someone\u2019s hard work, where a bunch of questions have already been asked and evaluated, that I may not have considered\u201d or \u201cmaybe I don\u2019t know the whole story.\u201d\nwhile an unintelligent person just goes \u201cTHAT\u2019S STUPID, I know better.\u201d",
+        "toxicity": 0
+    },
+    {
+        "id": 57,
+        "name": "an-can",
+        "comment": "While I haven't read the paper, it's my suspicion that clever people would spend more time facing a simple question with figuring out if it's actually a trick-question. I'm not overly smart but if I'm doing complicated test and get a very simple question I'll probably think there's something wrong here.",
+        "toxicity": 0
+    },
+    {
+        "id": 58,
+        "name": "AnalThermometer",
+        "comment": "I'm kind of interested if this address the issue that IQ tests themselves are often timed? In the one I took I had to answer half a dozen puzzles in 60 seconds multiple times, never felt so rushed during a test. Could those displaying higher IQ also be benefitting from this effect as well? I remember reading the sweet spot tends to be 120-30 for people who go on to win Nobel prizes and such.",
+        "toxicity": 0
+    },
+    {
+        "id": 59,
+        "name": "Asmaghost",
+        "comment": "I can vouch for this, my brain is in the top 80%. Safe to say I am pretty smart",
+        "toxicity": 0
+    },
+    {
+        "id": 60,
+        "name": "GokuBlack455",
+        "comment": "Probably because difficult problems take some time to be solved.",
+        "toxicity": 0
+    },
+    {
+        "id": 61,
+        "name": "Nice_Guy_AMA",
+        "comment": "Check your work!\n(that's what my brain says, but we've inadvertently hurt each other before)",
+        "toxicity": 0
+    },
+    {
+        "id": 62,
+        "name": "IkeHC",
+        "comment": "More possibilities foreseen = more possibilities to weed out before reaching the desired answer",
+        "toxicity": 0
+    },
+    {
+        "id": 63,
+        "name": "Building_Snowmen",
+        "comment": "That\u2019s why I solve difficult problems so fast! Because I\u2019m dumb!",
+        "toxicity": 1
+    },
+    {
+        "id": 64,
+        "name": "GateauBaker",
+        "comment": "That's why I was so good at time based math competitions in high school.",
+        "toxicity": 0
+    },
+    {
+        "id": 65,
+        "name": "DarkenRaul1",
+        "comment": "How is something mentioning IQ not immediately debunked and removed from this sub? I thought it has long been established that IQ tests (or any other intelligence based measuring system) are unscientific nonsense.",
+        "toxicity": 0
+    },
+    {
+        "id": 66,
+        "name": "sIicknot",
+        "comment": "I didn\u2019t read the article but could it be that more intelligent brains have more \u201eapproaches\u201c they consider and have to \u201etest\u201c / \u201esimulate\u201c them through before finding a good one?\nI mean do they consider more aspects of a problem thus take longer to find a solution that fills alls the needs that a \u201eshallower\u201c thought process wouldn\u2019t even think of?",
+        "toxicity": 1
+    },
+    {
+        "id": 67,
+        "name": "FLINDINGUS",
+        "comment": "Intelligent brains take longer to solve difficult problems: participants in a study with higher intelligence scores were only quicker when tackling simple tasks, while they took longer to solve difficult problems than subjects with lower IQ scores\nI don't find this surprising at all. Any problem over a certain complexity threshold is given the \"best guess\" treatment. Since IQ correlates negatively with impulsivity, it makes sense that they just make their best guess rather than sitting and thinking about it for a bit. It makes me wonder if IQ is dependent on impulsivity, e.g. they aren't patient enough to let their slower thought processes play out, regardless of if they have the ability to do so.\nThe problem here is that this study may just be measuring impulsivity and not intelligence. Were they incentivized to perform well with a reward? If not, there may be a bias there. People who are patient will take more time and this will yield a better result. That's not surprising at all.",
+        "toxicity": 0
+    },
+    {
+        "id": 68,
+        "name": "killj0y1",
+        "comment": "Occam's razor in effect I guess.",
+        "toxicity": 0
+    },
+    {
+        "id": 69,
+        "name": "HuskyNutBuster",
+        "comment": "Dumb and slow gang rise up",
+        "toxicity": 0
+    },
+    {
+        "id": 70,
+        "name": "ExitSweaty4959",
+        "comment": "When I was a kid I came up with a made up mental illness based on this. I called it hypercontextualization. It's funny that it actually happens.\nMy disease was extreme though and once you reached a level of intelligence so high you would take so much time thinking about anything that you wouldn't do almost anything at all.",
+        "toxicity": 0
+    },
+    {
+        "id": 71,
+        "name": "kuraix",
+        "comment": "With the way AI is boosting research and, most importantly, how it will be in the future there are certain things that now become achievable. I was just thinking how it applies to AI as well; GPT4 is slower to generate its outputs because the model is bigger and thus its intelligence\nCoincidence? I don't know, but soon instead of not having any idea of how either of these intelligences actually work we... Will.",
+        "toxicity": 0
+    },
+    {
+        "id": 72,
+        "name": "ReluctantSlayer",
+        "comment": "Maybe because we (?) consider all the options? Or maybe I am not so smart\u2026",
+        "toxicity": 0
+    },
+    {
+        "id": 73,
+        "name": "CountlessBodies",
+        "comment": "Measure twice cut once. Intelligent people double check inaccuracies.",
+        "toxicity": 0
+    },
+    {
+        "id": 74,
+        "name": "musingofrandomness",
+        "comment": "Overthinking the problem most likely.",
+        "toxicity": 0
+    },
+    {
+        "id": 75,
+        "name": "ZZW302002",
+        "comment": "I love it when someone pauses to think about a response when you ask them a question rather than answering reflexively. I guess this is why. Those who do that always have the best answers.",
+        "toxicity": 0
+    },
+    {
+        "id": 76,
+        "name": "NickU252",
+        "comment": "You want to find the easiest way to do something.... watch the laziest person perform that task.",
+        "toxicity": 0
+    },
+    {
+        "id": 77,
+        "name": "k3nnyd",
+        "comment": "I guess that's why I was always one of the last people to turn in exams. Allotted one hour or whatever and I'll use the whole hour to finish and check it. Meanwhile a few cool guys finish in 15 minutes and dip and often are surprised by their results..",
+        "toxicity": 0
+    },
+    {
+        "id": 78,
+        "name": "Perfect_Ad4026",
+        "comment": "I mean there are solutions, and then there are Solutions.",
+        "toxicity": 1
+    },
+    {
+        "id": 79,
+        "name": "Tennex1022",
+        "comment": "Maybe people who arnt as patient just dont score as well on IQ tests bc they miss the time consuming questions?",
+        "toxicity": 0
+    },
+    {
+        "id": 80,
+        "name": "wowitzer",
+        "comment": "Me I just blame my ADD.",
+        "toxicity": 0
+    },
+    {
+        "id": 81,
+        "name": "bornofthestorm",
+        "comment": "Rebeck engineering, man...",
+        "toxicity": 0
+    },
+    {
+        "id": 82,
+        "name": "potato_control",
+        "comment": "2 plus 2 is 4 minus 1 that's 3 quick maths",
+        "toxicity": 0
+    },
+    {
+        "id": 83,
+        "name": "diab0lus",
+        "comment": "Me: takes a long time to solve a complex problem.\nMe: feels stupid for taking so long.",
+        "toxicity": 1
+    },
+    {
+        "id": 84,
+        "name": "Impossible_Change800",
+        "comment": "See this is why I am a procrastinator. My super brain takes longer to solve the problem.",
+        "toxicity": 0
+    },
+    {
+        "id": 85,
+        "name": "TransitJohn",
+        "comment": "Paralysis by analysis.",
+        "toxicity": 0
+    },
+    {
+        "id": 86,
+        "name": "rg1283",
+        "comment": "Well to be fair no matter how fast our processor, we will fire on a dual core system",
+        "toxicity": 0
+    },
+    {
+        "id": 87,
+        "name": "jumbledsiren",
+        "comment": "Oh that must mean my IQ is penetrating the sky!",
+        "toxicity": 1
+    },
+    {
+        "id": 88,
+        "name": "weirdwoodsy",
+        "comment": "It always pissed me off when my peers were rewarded for being first but inaccurate while I spent the time to be accurate.\nThis honestly explains so much in my life, giiiiiirl.",
+        "toxicity": 0
+    },
+    {
+        "id": 89,
+        "name": "ExoticViking",
+        "comment": "I must be Einstein then.",
+        "toxicity": 0
+    },
+    {
+        "id": 90,
+        "name": "Frankie-Beanz",
+        "comment": "IQ is such a terrible metric to measure people by",
+        "toxicity": 0
+    },
+    {
+        "id": 91,
+        "name": "angryarugula",
+        "comment": "Stop over thinking it!",
+        "toxicity": 0
+    },
+    {
+        "id": 92,
+        "name": "mikeythespiky",
+        "comment": "Always gotta double/triple/okay 5 times check",
+        "toxicity": 0
+    },
+    {
+        "id": 93,
+        "name": "NetNex",
+        "comment": "So does this mean that I'm not stupid for taking awhile to get there with certain things then?\nI'd love for them to tell my 2009 examiner that.",
+        "toxicity": 1
+    },
+    {
+        "id": 94,
+        "name": "rantottcsirke",
+        "comment": "People who played Chess against the computer know this already.",
+        "toxicity": 0
+    },
+    {
+        "id": 95,
+        "name": "PartyYogurtcloset267",
+        "comment": "So all the companies I applied for that sent me coding quizzes I had to solve in 3 minutes were just looking for dumber candidates?",
+        "toxicity": 1
+    },
+    {
+        "id": 96,
+        "name": "ilostmyoldaccount",
+        "comment": "So this is where \"smart people lack \"common sense\"\" comes from.",
+        "toxicity": 0
+    },
+    {
+        "id": 97,
+        "name": "Prazus",
+        "comment": "I found a good excuse.",
+        "toxicity": 0
+    },
+    {
+        "id": 98,
+        "name": "MelbChazz",
+        "comment": "I'm still trying to solve 12x3\nMan I'm smart af",
+        "toxicity": 0
+    },
+    {
+        "id": 99,
+        "name": "JupiterandMars1",
+        "comment": "Isn\u2019t this measuring different types of intelligence by the same yardstick?\nIt would seem that one could be calculated problem solving, which by its nature should be slow. The other is estimation and \u201cgut instinct\u201d based.\nBoth are valuable, both very specific to very specific tasks, and yes, I\u2019d say I know people that have modest IQ\u2019s who are incredibly quick and competent in situations that require correct decisions and solutions to be made fast.\nI\u2019d also say I know some people with higher IQ\u2019s that freeze in those same situations.\nI do know 1 or 2 people though that have both. They tend to glide through life.",
+        "toxicity": 0
+    },
+    {
+        "id": 100,
+        "name": "redlightsaber",
+        "comment": "I think it's becoming pretty clear that we're all just biological and naturally-ocurring Large Language Models.",
+        "toxicity": 0
+    },
+    {
+        "id": 101,
+        "name": "spyker667",
+        "comment": "I have a slightly related personal observation which no one will bother reading.\nA few weeks ago I was helping my brother install some taps at his house while I was visiting . I'm very analytical and I'd like to think I have an above average IQ(at least that's what the test scores have said). I'm also good with my hands. My brother is a smart guy but doesn't think before doing things. He starts and just shoots off without planning. His argument was that he can install a tap before I could finish planning and preparing. I told him that may be true sometimes, but over enough attempts planning will win out. We fought like siblings should with a healthy dose of insults thrown in. I do see how some people suffer from analysis paralysis (it is happening to me right now because I have to decided between 2 jobs, the one pays more but the other seems more enjoyable) but I do think a little planning and thought before you set off or during goes a long way to ensure your choice has a bigger chance of being correct. I also went for an aptitude test during an interview and they clearly said to be accurate over completing. So I didn't rush, made sure to work everything out(I asked for a pen and paper even). They offered me the job but I turned it down because I didn't want to work for people that do aptitude tests. I preferred accuracy over precision. Yes you could hit a bullseye every now and then but solid, dependable performance is much more important.",
+        "toxicity": 0
+    },
+    {
+        "id": 102,
+        "name": "zinonymous001",
+        "comment": "I\u2019m not the smartest person, but I\u2019m 2.4-2.8 SD above average IQ. As an IT problem solver, I found a long while ago that I\u2019m slower than a lot of people for all classes of tech work unless it\u2019s some random thing I have memorized recently, and I suck at context switching.\nWhere I shine is:\nI can perform parallel operations, so if I have 20 repeatable things to do, I can often do all of them in 3 batches.\nI can solve new problems without a runbook. I make my own runbooks/procedures.\nI can solve extremely complex problems, or multi-part problems, that confuse others.\nI\u2019m willing to try things I don\u2019t already know how to do. It\u2019s about breaking down the problem into small enough pieces, tracking ALL of the pieces, and not giving up.\nNOTE: IQ is just a measure of a certain kind of analytical thinking and often is measured with cultural bias. It\u2019s not overall intelligence, value, etc. It does not track ability to follow through, total workload abilities, communication abilities, nor many other valuable traits/stats.",
+        "toxicity": 0
+    },
+    {
+        "id": 103,
+        "name": "TheNeech",
+        "comment": "There's not always 1 way to get to the correct answer.",
+        "toxicity": 0
+    },
+    {
+        "id": 104,
+        "name": "lost_survivalist",
+        "comment": "This makes me feel so much better. I use to think I sucked at math or was below average until I took a math class with a teacher who allowed me to continue the test during lunch ( the next period after maths). I would continue the test when everyone else left and lo and behold I would get As on my tests, just because I was given extra time. I always felt that I was never given enough time to finish a math tests and I was correct. I'm much slower at math and, if I feel like I'm being rushed, my test anxiety would flair up. from then on, I learned to schedule my math classes before lunch or for it to be the last class of the day.",
+        "toxicity": 0
+    },
+    {
+        "id": 105,
+        "name": "InquisitiveDude",
+        "comment": "uh. Is that because their solutions were actually right?",
+        "toxicity": 0
+    },
+    {
+        "id": 106,
+        "name": "an0uts1der",
+        "comment": "Ahhhhhh this why I take longer than everyone else in my family at board games.",
+        "toxicity": 0
+    },
+    {
+        "id": 107,
+        "name": "Turokr",
+        "comment": "A super computer takes hours to render and simulate a complex molecular system.\nMy 10 years old laptop only takes around 10 seconds to come to a solution to it. The solution is a blue screen.\nOlder laptops are faster when it comes to rendering complex molecular systems.",
+        "toxicity": 0
+    },
+    {
+        "id": 108,
+        "name": "2004rememberkind",
+        "comment": "It would be interesting to know who solves problems faster when it's necessary though. There are a lot of problems where it isn't possible to take a long amount of time to solve.",
+        "toxicity": 0
+    },
+    {
+        "id": 109,
+        "name": "Mini_Mega",
+        "comment": "So if I'm slow does that actually mean I'm smarter?\nI did a proper IQ test with a psychologist a while back for a disability employment service thing cause I'm autistic, that's when I found out I'm clinically slow. She said if you don't include speed in the total, my IQ would be 127, but because I'm so slow, it brings my IQ down to 109.",
+        "toxicity": 1
+    },
+    {
+        "id": 110,
+        "name": "ehosca",
+        "comment": "\u201cIf you want me to give you a two-hour presentation, I am ready today. If you want only a five-minute speech, it will take me two weeks to prepare.\u201d\n\u2015 Mark Twain",
+        "toxicity": 0
+    },
+    {
+        "id": 111,
+        "name": "WeAreBatmen",
+        "comment": "There\u2019s 3 ways to do things. The right way, the wrong way, and the Max Power way.",
+        "toxicity": 0
+    },
+    {
+        "id": 112,
+        "name": "starlinguk",
+        "comment": "The title is right wing propaganda. \"See, educated people are stupid.\"",
+        "toxicity": 1
+    },
+    {
+        "id": 113,
+        "name": "Dark_Vengence",
+        "comment": "I guess I have low iq but I can't solve any problems. Don't know how I got this far in life.",
+        "toxicity": 0
+    },
+    {
+        "id": 114,
+        "name": "Fisher9001",
+        "comment": "That's one hell of a misguiding title.",
+        "toxicity": 0
+    },
+    {
+        "id": 115,
+        "name": "Ed_Derick_",
+        "comment": "Woah dude it\u2019s almost like you will get stuff right if you spend more time thinking instead of just rushing through the questions.",
+        "toxicity": 0
+    },
+    {
+        "id": 116,
+        "name": "adappergentlefolk",
+        "comment": "reality apparently has a low IQ bias because often solving the problem badly is much much better than not solving the problem at all",
+        "toxicity": 0
+    },
+    {
+        "id": 117,
+        "name": "GetGroovyWithMyGhost",
+        "comment": "I wonder if this applies to communication too. Might be wishful thinking, but as an awkward conversationalist, I like to think the reason I take a long time to get a thought across is because I won\u2019t say something until I\u2019ve thought of exactly the right words to convey it. Whereas I know some people who say very silly things but come across as fantastic communicators! It\u2019s more likely that I\u2019m both stupid and awkward but I\u2019m going to enjoy the fantasy.",
+        "toxicity": 1
+    },
+    {
+        "id": 118,
+        "name": "Brumbart",
+        "comment": "It's because we check our results to prevent wrong answers.",
+        "toxicity": 0
+    },
+    {
+        "id": 119,
+        "name": "GeekFurious",
+        "comment": "In the grand scheme, we're just a bunch of stupid machines solving complex problems. Some of us are just less stupid and make fewer mistakes while doing it.",
+        "toxicity": 1
+    },
+    {
+        "id": 120,
+        "name": "Reaper0700",
+        "comment": "\"It ain't got no gas in it\"",
+        "toxicity": 0
+    },
+    {
+        "id": 121,
+        "name": "scoobydobydobydo",
+        "comment": "smart people knows how to guess, considering only the most promising paths to the solution. both deep blue and alphago uses some kinda weighted thought tree search and that's really smart (stable value network +mc, singular extension).\nit's never good to trust too much or too little.",
+        "toxicity": 0
+    },
+    {
+        "id": 122,
+        "name": "SirTouchMeSama",
+        "comment": "I wonder if thats due to unconscious incompetence vs conscious incompetence.",
+        "toxicity": 0
+    },
+    {
+        "id": 123,
+        "name": "GORELORD187",
+        "comment": "I get told by my boss I'm very smart and intelligent. He has a masters in engineering and electrical engineering. Guy is a wizard. I don't even know basic math. It blows me away when he tells me i figure things out before our guys with Bachelors degrees... being smart doesn't mean a thing from my experiences knowing what your good it makes all the difference",
+        "toxicity": 1
+    },
+    {
+        "id": 124,
+        "name": "saanity",
+        "comment": "Assuming lower IQ people got the correct answer faster, is this some kind of neuron bureaucracy for more intelligent people?",
+        "toxicity": 0
+    },
+    {
+        "id": 125,
+        "name": "diox8tony",
+        "comment": "I'm the slowest person at work....does that mean I'm the smartest? Yay",
+        "toxicity": 1
+    },
+    {
+        "id": 126,
+        "name": "L0NESHARK",
+        "comment": "Smart people I know often feel like they're being tricked if the problem seems to simple.",
+        "toxicity": 0
+    },
+    {
+        "id": 127,
+        "name": "Zech08",
+        "comment": "Given a intelligent person has more data and possibilities/processes to run through wouldn't that make sense?",
+        "toxicity": 0
+    },
+    {
+        "id": 128,
+        "name": "bewarethetreebadger",
+        "comment": "Yes. It takes longer to do a task CORRECTLY.",
+        "toxicity": 0
+    },
+    {
+        "id": 129,
+        "name": "gokurockx9",
+        "comment": "It's called 'humility', something stupid people seldom possess. (Evidently, I don't possess much humlity either obvs.)\nRoughly half of all people with high\u2014very high fluid intelligence are almost always just as wise as they are intelligent, unlike most average and low IQ individuals. It gives the false impression on most people, in general, that most intelligent people don't possess the same capabilities from \"eXpErIeNCe\", so that most mean 'smart people lack experience', which is literally confirmation bias because they deny that their own experience *isn't only* exclusive to themselves and not anybody else. Imagine every human being on Earth unintentionally dampening their potential to be a critical thinker because of unconscious hubris.\nIt's more important to have a mechanism to control for bias rather to simply possess absolute certainty because it's something you want to feel or something. For stupid people, it's only a feeling to obtain to satisfy a desired emotional outcome. For intelligent people, it's a process and gift to solve problems. It takes more than intelligence to act intelligently. I wonder what quality that is.",
+        "toxicity": 1
+    },
+    {
+        "id": 130,
+        "name": "Kraashing",
+        "comment": "I would have thought that it would be the other way round",
+        "toxicity": 0
+    },
+    {
+        "id": 131,
+        "name": "Lurkedylurker",
+        "comment": "Is it because theyre busy overthinking?",
+        "toxicity": 0
+    },
+    {
+        "id": 132,
+        "name": "NoirGamester",
+        "comment": "I read something similar to this back in high school and yes, it was the over thinking. Basically the lower iq is able to just move through each part of the problem and onto the next, but the high iq gets caught up trying to account for multiple variables that may not even effect the outcome of the problem",
+        "toxicity": 0
+    },
+    {
+        "id": 133,
+        "name": "GingerBread79",
+        "comment": "If this is the case, then will that have an effect on time limits on IQ and other cognitive assessments?",
+        "toxicity": 0
+    },
+    {
+        "id": 134,
+        "name": "Newguyiswinning_",
+        "comment": "Because they made fewer errors... But lets not include that part in an attempt to make the dumber feek smart",
+        "toxicity": 1
+    },
+    {
+        "id": 135,
+        "name": "Demiskus",
+        "comment": "I could see this being partially true where both people are also correct. I knew a really smart guy. He was good at fixing just about any issue, but there was a catch.\nIf a light bulb was out, the first thing he would do is check if the power plant was still producing the correct voltage, then work his way back through the circuit before checking if the bulb burned out. I'm exaggerating a bit, but that's what we always used to joke about. He was great at finding those real obscure problems though.",
+        "toxicity": 0
+    },
+    {
+        "id": 136,
+        "name": "boforbojack",
+        "comment": "One of the biggest things they teach in Engineering is the logical solving of a problem. I say, \"teach\" but that's really all Engineering as a discipline is. Looking at a scenario, finding the problem, creating a response, testing the response to be sure it fixed the problem, reassessing the situation.\nBasically, no matter how simple the problem you are expected to layout the problem ENTIRELY. Specify everything you can. Draw a diagram. Etc. Then you use that info to solve the problem.\nThere are a couple of Physics 1 problems (university level, where they teach applied calculus 1) where you can use \"shortcuts\" and generally get to the right answer quickly. But the figurative line in the sand is there. Most of problems specifically initiate those shortcuts but have a more hidden extra layer that you won't see if you don't layout the problem entirely.\nI'd be very interested in the accuracy of the solutions from the \"less intelligent\" group.",
+        "toxicity": 0
+    },
+    {
+        "id": 137,
+        "name": "realjimgoose",
+        "comment": "Overthinkers are slow learners, slow learners are the best learners. But they can look bad when placed alongside neurotypicals.",
+        "toxicity": 0
+    },
+    {
+        "id": 138,
+        "name": "Inevitable_Run3365",
+        "comment": "It\u2019s time we start teaching different trades in school instead of forcing everyone to go through the same material. Let kids explore different careers within school and train them if that\u2019s what they want. Better lunches not the nasty food they give especially since we pay taxes for schools even when we don\u2019t have kids! Teach kids respect for animals and themselves and others. Things like growing plants, math, science, and whatever career they lean towards.",
+        "toxicity": 1
+    },
+    {
+        "id": 139,
+        "name": "4skinphenom69",
+        "comment": "Subjects with lower iq\u2019s were probably guessing and just writing whatever down on the harder problems, at least that\u2019s what I did in school",
+        "toxicity": 0
+    },
+    {
+        "id": 140,
+        "name": "Homo-Boglimus",
+        "comment": "Ok, but which group was more likely to pick a better solution to the problem? All this tells me is that stupid people will just guess when confronted with problems they don't fully comprehend. So they come up with a quicker solution, but is the solution correct?\nFor instance if I have a multiple choice test and pick answers at random without reading the question, I'm going to finish faster than every other test taker.",
+        "toxicity": 1
+    },
+    {
+        "id": 141,
+        "name": "RavenWiggles",
+        "comment": "I figure overthinking probably plays a role.",
+        "toxicity": 0
+    },
+    {
+        "id": 142,
+        "name": "flatline000",
+        "comment": "So what's the takeaway from this? Correct answers take longer than incorrect answers?\nOr maybe it takes less time to give up on a hard problem than it does to solve it?",
+        "toxicity": 0
+    },
+    {
+        "id": 143,
+        "name": "LackingTact19",
+        "comment": "Overthinking is killing your reality",
+        "toxicity": 0
+    },
+    {
+        "id": 144,
+        "name": "m3kw",
+        "comment": "Everyone that thought they were stupid is now smart and all the smart ones are actually stupid",
+        "toxicity": 1
+    },
+    {
+        "id": 145,
+        "name": "Jutter70",
+        "comment": "Okay so I emediately realized that puts a new spin on being slow on the uptake and that would've taken me longer to figure out if I weren't such a knobhead?",
+        "toxicity": 0
+    },
+    {
+        "id": 146,
+        "name": "Reddit_willbanyou",
+        "comment": "What a stupid title and a stupid study",
+        "toxicity": 1
+    },
+    {
+        "id": 147,
+        "name": "nitramv",
+        "comment": "Reminds me of this story of a guy on the production line solving a problem with a fan after the engineers had failed to solve it with a much more complicated solution...\nhttps://www.reddit.com/r/engineering/comments/2o9dho/the_empty_toothpaste_box_problem/",
+        "toxicity": 0
+    },
+    {
+        "id": 148,
+        "name": "keizzer",
+        "comment": "They didn't actually solve the problem. Neither of them did. The problem was the box was empty not that there was an empty box in the production line. Not only did they spend all that time and money, but they didn't even solve the problem.\n'\nThey should have been solving the reasons why the tube didn't make it into the box. Fix inputs and outputs follow.\n'\nAnyone that reads this needs to understand that this is not how you solve problems.",
+        "toxicity": 0
+    },
+    {
+        "id": 149,
+        "name": "bduddy",
+        "comment": "It's almost like \"IQ tests\" just measure your ability to answer a certain subset of simple questions rapidly in a test setting, and not anything else.",
+        "toxicity": 0
+    },
+    {
+        "id": 150,
+        "name": "yusrandpasswdisbad",
+        "comment": "You don't want an engineer piloting your plane.",
+        "toxicity": 0
+    },
+    {
+        "id": 151,
+        "name": "ZootedFlaybish",
+        "comment": "More intelligent brains can generate more subtleties and have more possibilities to contend with.",
+        "toxicity": 0
+    },
+    {
+        "id": 152,
+        "name": "Ghostbuster_119",
+        "comment": "Not saying I'm smrt or nuthin' but i know when I deal with a long winded problem solving process I double check the whole thing again just to make sure I'm not wrong.\nAnd based on very limited samples of people in public I can determine that at least not everyone double checks their ideas.",
+        "toxicity": 0
+    },
+    {
+        "id": 153,
+        "name": "mikehawk1988",
+        "comment": "Analysis of paralysis",
+        "toxicity": 0
+    },
+    {
+        "id": 154,
+        "name": "Phemto_B",
+        "comment": "'bout time I got an explanation for why I suck at Bopit.",
+        "toxicity": 0
+    },
+    {
+        "id": 155,
+        "name": "Ramaniso",
+        "comment": "That makes sense because the more complex a problem - the more complexities and variables impacting each other.",
+        "toxicity": 0
+    },
+    {
+        "id": 156,
+        "name": "capnmax",
+        "comment": "Well that's convenient!",
+        "toxicity": 0
+    },
+    {
+        "id": 157,
+        "name": "Round-Antelope552",
+        "comment": "Cavemen used to experiment with stuff to make stuff/do stuff to make their lives safer, easier and more comfortable. I guess it\u2019s the ones that were able to extrapolate/synthesis prior learnings and build/create above those (if this makes sense) that are by a practical definition in context, intelligent.\nEveryone is capable of being intelligent, just like everyone is capable of being idk manipulative? It\u2019s just levels I guess and some people are levels above others",
+        "toxicity": 0
+    },
+    {
+        "id": 158,
+        "name": "xxxxx420xxxxx",
+        "comment": "So IQ-challenged individuals solve difficult problems faster than smart people.... Ok got it",
+        "toxicity": 0
+    },
+    {
+        "id": 159,
+        "name": "nopenopenopeyess",
+        "comment": "I wonder how much of this is due to IQ tests being made to test how quick people solve simple problems in the first place. This might not be the best way to measure intelligence for a complex problem.",
+        "toxicity": 0
+    },
+    {
+        "id": 160,
+        "name": "trollsmurf",
+        "comment": "Paradoxical. I need to think long and hard on this.",
+        "toxicity": 0
+    },
+    {
+        "id": 161,
+        "name": "Overwatch_preachy",
+        "comment": "I'm gonna need someone with a lower IQ to explain this to me",
+        "toxicity": 0
+    },
+    {
+        "id": 162,
+        "name": "positron_potato",
+        "comment": "IQ tests require people to answer short questions quickly, so the people who score well are likely to be people who specifically have a talent for those kinds of problems. Someone of \u201cequal intelligence\u201d (if such a thing is definable) who is instead more suited to more difficult problems that require more time, will perform worse on an IQ test.\nPeople are reading this as \u201cthe idiots are kind of smart after all\u201d when it\u2019s more \u201cIQ tests are flawed and don\u2019t measure all kinds of intelligence equally\u201d.",
+        "toxicity": 1
+    },
+    {
+        "id": 163,
+        "name": "t31os",
+        "comment": "Maybe that speaks more to the quality of the problems the test is designing for people to solve.",
+        "toxicity": 0
+    },
+    {
+        "id": 164,
+        "name": "Primary_Way_265",
+        "comment": "So do people with ADHD come to the same conclusions faster or are their quick responses more like a fast solution like lower IQ scorers in the test?",
+        "toxicity": 0
+    },
+    {
+        "id": 165,
+        "name": "tseliottt",
+        "comment": "Think of all the filtering out the school system has done",
+        "toxicity": 0
+    },
+    {
+        "id": 166,
+        "name": "LamysHusband3",
+        "comment": "Might the real issue here be the IQ scores used to determine intelligence? I've read it a few times and believe so myself that IQ is not a good measurement of intelligence. As you could get a higher score simply by training for the tests and retaking them. Or simply being good in the areas covered by the test.",
+        "toxicity": 0
+    },
+    {
+        "id": 167,
+        "name": "chrisdub84",
+        "comment": "I teach high school math. I have learned that some students basically have an internal timer for test questions where if it seems like it will take too long or starts to take too long, they just guess and move on.",
+        "toxicity": 0
+    },
+    {
+        "id": 168,
+        "name": "zebrahdh",
+        "comment": "So why are IQ tests timed?",
+        "toxicity": 0
+    },
+    {
+        "id": 169,
+        "name": "kale_boriak",
+        "comment": "And did it affect success rate?",
+        "toxicity": 0
+    },
+    {
+        "id": 170,
+        "name": "Slippedhal0",
+        "comment": "Interesting, but it seems like they only were testing for the speed of reaching a solution, and not the \"corrrect\" solution? I would assume that if you were asked to repeat the task until you got it correct, the times would skew back in the \"high IQ\" persons favour as they take their methodological approach to the task they are unfamiliar with.",
+        "toxicity": 0
+    },
+    {
+        "id": 171,
+        "name": "eviljordan",
+        "comment": "Drill Sergeant:\nGUUUUUUMP! Why did you put that weapon together so quickly, Gump?\nForrest Gump:\nBecause you told me to, Drill Sergeant?",
+        "toxicity": 0
+    },
+    {
+        "id": 172,
+        "name": "Whatzthatsmellz",
+        "comment": "I\u2019m a stupid idiot. I just give up on problems after a certain amount of time, which keeps me in stupid idiot status.",
+        "toxicity": 1
+    },
+    {
+        "id": 173,
+        "name": "MarcusSurealius",
+        "comment": "From the abstract:\n\"Here, we identify links between brain structure and function that enable to learn connectome topology from noninvasive recordings and map it to inter-individual differences in behavior, suggesting broad utility for research and clinical applications.\"\nAre they suggesting that there is a scan that can determine a person's intelligence?",
+        "toxicity": 0
+    },
+    {
+        "id": 174,
+        "name": "GarglenutsBumblebutt",
+        "comment": "So is intelligence really just about thinking more efficiently and not necessarily thinking on a higher level? Intelligent people connect the dots better, but for the most part aren\u2019t all Einsteins?",
+        "toxicity": 0
+    },
+    {
+        "id": 175,
+        "name": "coolgr3g",
+        "comment": "That's because difficult problems don't have easy solutions. Anyone who says they do is a simple person themselves.",
+        "toxicity": 0
+    },
+    {
+        "id": 176,
+        "name": "DigStock",
+        "comment": "In personalized brain simulations of the 650 participants, the researchers could determine that brains with reduced synchrony between brain areas literally \u201cjump to conclusions\u201d when making decisions, rather than waiting until upstream brain regions could complete the processing steps needed to solve the problem. In fact, the brain models for higher score participants also needed more time to solve challenging tasks but made fewer errors.",
+        "toxicity": 0
+    },
+    {
+        "id": 177,
+        "name": "jrunic",
+        "comment": "Everything is difficult",
+        "toxicity": 0
+    },
+    {
+        "id": 178,
+        "name": "djloid2010",
+        "comment": "But is it solve it or solve it correctly?",
+        "toxicity": 0
+    },
+    {
+        "id": 179,
+        "name": "lowspeed",
+        "comment": "Let me get it straight... Smart people get penalized for taking longer but getting the answer right? Is that what they're saying?",
+        "toxicity": 0
+    },
+    {
+        "id": 180,
+        "name": "SinnerIxim",
+        "comment": "Yeah, when you understand the possible outcomes of the solution you develop, you will need to determine the best solution. If you only care about giving a single possibly correct answer its easy",
+        "toxicity": 0
+    },
+    {
+        "id": 181,
+        "name": "csf3lih",
+        "comment": "Misleading. This is def not true. Took me 3 minutes to solve a calculus and my friend did it in 1 and you telling me I'm the smart one?",
+        "toxicity": 0
+    },
+    {
+        "id": 182,
+        "name": "is_this_the_place",
+        "comment": "Yea, I\u2019ve been saying this all along, obviously this is why my work is never done in time",
+        "toxicity": 0
+    },
+    {
+        "id": 183,
+        "name": "MetalJunkie101",
+        "comment": "The scene where Walt and Mike are arguing about how to deal with Gus's hard drive while Jesse is in the background yelling \"WHAT ABOUT MAGNETS\" makes so much more sense now.",
+        "toxicity": 0
+    },
+    {
+        "id": 184,
+        "name": "DrSeuss19",
+        "comment": "Over thinking is a hell of a thing",
+        "toxicity": 0
+    },
+    {
+        "id": 185,
+        "name": "MartianGuard",
+        "comment": "Did the smarty pants\u2019 come up with better solutions?",
+        "toxicity": 0
+    },
+    {
+        "id": 186,
+        "name": "ZapateriaLaBailarina",
+        "comment": "It just sounds to me like smart people are also more patient.",
+        "toxicity": 0
+    },
+    {
+        "id": 187,
+        "name": "DootLord",
+        "comment": "That makes my smooth brain feel better about itself.",
+        "toxicity": 0
+    },
+    {
+        "id": 188,
+        "name": "blueeyedlion",
+        "comment": "Fastest possible just answers \"4\" to everything.",
+        "toxicity": 0
+    },
+    {
+        "id": 189,
+        "name": "ChainsawMachine67",
+        "comment": "I never solve difficult problems. I think I am a God!",
+        "toxicity": 0
+    },
+    {
+        "id": 190,
+        "name": "actttappalled75",
+        "comment": "I'm going to be selective on what and how I take this information so I feel like a genius",
+        "toxicity": 0
+    },
+    {
+        "id": 191,
+        "name": "1668553684",
+        "comment": "Good news! I'm actually very intelligent!\nEither that or I'm quicker at solving complex problems.\nI don't know my IQ so I could theoretically belong to either group, but they both seem positive.",
+        "toxicity": 0
+    },
+    {
+        "id": 192,
+        "name": "vanishing",
+        "comment": "I have questions on this study. I was looking at the original publication and it doesn't seem to describe the methodology used to administer the actual tests. At least I can't find anything.\nI'm particularly interested in whether or not a time pressure was part of the instructions for the test. If I am given a problem and told I have as much time as I need to answer it I will employ a very different strategy than if there is clear time pressure. I would expect smarter people to take longer to reach answers if they have no time pressure, but I would also expect them to be faster if there is time pressure since they have a choice of strategies that less capable people don't have.",
+        "toxicity": 0
+    },
+    {
+        "id": 193,
+        "name": "adrik0622",
+        "comment": "If I believed even remotely in the validity and reliability of IQ scores maybe this would be more novel.",
+        "toxicity": 0
+    },
+    {
+        "id": 194,
+        "name": "rangeo",
+        "comment": "Procrastinator here .... I like this",
+        "toxicity": 0
+    },
+    {
+        "id": 195,
+        "name": "rikitikifemi",
+        "comment": "Almost like IQ is a social construct.",
+        "toxicity": 0
+    },
+    {
+        "id": 196,
+        "name": "5oLiTu2e",
+        "comment": "About as long as that taxi ride to the airport",
+        "toxicity": 0
+    },
+    {
+        "id": 197,
+        "name": "rikitikifemi",
+        "comment": "Almost like IQ is a social construct.",
+        "toxicity": 0
+    },
+    {
+        "id": 198,
+        "name": "chocolateboomslang",
+        "comment": "Getting the right answer is a lot harder than getting the wrong answer.",
+        "toxicity": 0
+    },
+    {
+        "id": 199,
+        "name": "Jethro_Cull",
+        "comment": "This was years ago, but I screwed up the math portion of the GMAT by taking too long. I was a math major in college, so I was pretty confident that I\u2019d get the right answers if I took my time and checked my work. The math questions on all the practice exams were pretty easy for me. Based on the number of questions, I knew I had like 5 minutes per question. So, in all my practice exams, I paced myself at 4 minutes each, which would let me check my work as I went, rather than revisiting questions at the end. However, unlike the practice exams, the actual test was on a computer and it had dynamic difficulty balancing. So, the more questions I got right, the harder the questions got. I ended up needing way more time for the later questions and I think I only got to answer like 20/25 questions before I ran out of time. I ended up scoring higher on the verbal reasoning section, which is crazy because I\u2019ve always been better at math.",
+        "toxicity": 0
+    },
+    {
+        "id": 200,
+        "name": "Neuvost",
+        "comment": "IQ is anything but scientific.",
+        "toxicity": 0
+    },
+    {
+        "id": 201,
+        "name": "kzrk1",
+        "comment": "Low IQ detected.",
+        "toxicity": 0
+    },
+    {
+        "id": 202,
+        "name": "EclecticOmnist4-2",
+        "comment": "They take a lot more into account and don't believe everything is simple. Someone with low IQ would do the bare minimum. Empathy, an open mind, and critical thinking are applied to everything when you have a higher IQ. IQ also determines your ability to learn something new and use it. For example, someone with high test scores doesn't give them a high IQ, it means you have a good memory. There are a lot of bad doctors who got great test scores but get terrible reviews on Yelp. They don't have critical thinking skills (the ability to use what you've memorized). Think inventors with autism and ADHD\u00e2\u20ac\u201dlow test scores, some don't even graduate, but they're naturally born engineers able to see and understand the world.\nPeople who say others overthink often have a lower IQ. They attempt to simplify everything and ignore variables. Take our legal system that deems children from abusive homes as criminals because of 'the life they choose' when they don't get to choose what they learn. Kids don't know what you don't teach them. If the good doesn't outweigh the bad, they will become 'mentally ill/traumatized,' which is a natural reaction to danger. Evolution does that to people. Their brain then will only focus on the bad, paint the world a dangerous place where you must fight to stay alive. If you're lucky, depression is all that will come of it. Others commit suicide, end up homeless, self-medicating with hard drugs, or turn to criminal activity and violence they learned throughout life. And all that gets ignored by society heavily because it's simpler for people to label all that as a criminal and pack them in prisons and never think about them again.\nThen you have to take into account whether they're HSP (highly sensitive persons), meaning their nervous system takes more damage per trauma event than the common person or not. Two different people in the exact same traumatizing situations: one could become a billionaire, and the other may choose suicide, with a spectrum of possibility in between.\nThe fact that mental health is genetic\u00e2\u20ac\u201dso are fears, memories, and thoughts you have. They can and will be passed to your kids. What do you do when you're third or fourth-generation PTSD and have fears embedded in your DNA that most therapists don't even realize is a thing? That's PTSD that's been stacking for decades in the bloodline. (Google 'Mouse and the Cherry Blossom' study).",
+        "toxicity": 1
+    },
+    {
+        "id": 203,
+        "name": "mojoradio",
+        "comment": "Seems like whoever posted this intentionally didn't include the important caveat of 'but made fewer errors,' in the title. I wonder why that is? :P",
+        "toxicity": 0
+    },
+    {
+        "id": 204,
+        "name": "Thaddeus_Hamlet",
+        "comment": "Meanwhile, schools: 'Now complete an entire essay in less than an hour.'",
+        "toxicity": 0
+    },
+    {
+        "id": 205,
+        "name": "Pogifrog",
+        "comment": "Answer the problems or actually solve the problems.",
+        "toxicity": 0
+    },
+    {
+        "id": 206,
+        "name": "WasChristRipped",
+        "comment": "Because they... actually think the answer over?",
+        "toxicity": 0
+    },
+    {
+        "id": 207,
+        "name": "Badroadrash101",
+        "comment": "Always heard it's better to be clever than smart.",
+        "toxicity": 0
+    },
+    {
+        "id": 208,
+        "name": "fatnat",
+        "comment": "Tautology's gonna tautology!",
+        "toxicity": 0
+    },
+    {
+        "id": 209,
+        "name": "xxxxx420xxxxx",
+        "comment": "But this is the opposite of that, dumb people solve tough problems faster than smart people apparently.",
+        "toxicity": 1
+    },
+    {
+        "id": 210,
+        "name": "Appropriate-Fun8241",
+        "comment": "Is that why it's taking so long for experts to admit they were wrong about COVID?",
+        "toxicity": 0
+    },
+    {
+        "id": 211,
+        "name": "Garencio",
+        "comment": "Totally disagree. An intelligent person finds the solution faster based on past experience and being able to apply correlation of previous problems.",
+        "toxicity": 0
+    },
+    {
+        "id": 212,
+        "name": "FarceMultiplier",
+        "comment": "Your anecdote does not dispute their study across many other people.",
+        "toxicity": 0
+    },
+    {
+        "id": 213,
+        "name": "Objective-Limit2412",
+        "comment": "They solved the problems in the end, right?",
+        "toxicity": 0
+    },
+    {
+        "id": 214,
+        "name": "ihatepasswords1234",
+        "comment": "No, this is phrased poorly. The less intelligent people weren't solving it at all. They came up with an answer more quickly, it was just less likely to be correct.",
+        "toxicity": 0
+    },
+    {
+        "id": 215,
+        "name": "HaikuBotStalksMe",
+        "comment": "Obviously. We are more careful about figuring out potential errors.\nFor example, 'What is the rule for this acceptable sequence of numbers? 3, 6, 9, 12, 15. You may ask any number of questions and we will answer truthfully.'\nNormal person: 'Easy, it's 3, 6, 9, 12, 15, 18, 21. It's plus three.'\nSmarter person: 'Is the pattern using purely integers?'\n'Yes.'\n'Is there a limit to how long an answer to the sequence needs to be?'\n'What do you mean?'\n'Like, is it an infinite pattern?'\n'I can't answer that based on your wording.'\n'Wait, so there's no pattern?'\n'There's no pattern.'\n'But there's a rule?'\n'Yes.'\n'I see. And is there an infinite number of numbers to this sequence?'\n'Yes.'\n'But there's no pattern?'\n'No pattern. Just a rule.'\n'Erm... Is it possible for a number to repeat in this sequence? Like a specific integer?'\n'No.'\n'Are negatives possible?'\n'Not in this sequence.'\n'Can the numbers ever decrease?'\n'No.'\n'Do they always increase?'\n'Yes.'\n'Is... Is that the rule?'\n'Yes.'",
+        "toxicity": 1
+    },
+    {
+        "id": 216,
+        "name": "DippStarr",
+        "comment": "Not trying to toot my own horn, but as a kid I had to take various different examinations for brain function to better understand my personal dyslexia. I don't recall the exact IQ I was recorded as, but it was in the mild to moderately gifted range (115 to 145). Dyslexia is a confounding variable in my brain processing power, but I have always felt that the processing power is in me, and as such there is no reason to rush to a conclusion. Give me a few moments/minutes/hours longer depending on the complexity of the open-ended problem, and I can come up with very clever novel solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 217,
+        "name": "Jakomus",
+        "comment": "Similarly, my ADHD makes mental math very difficult for me, but using pen and paper to order my thoughts allows me to come to the correct conclusion. But every math teacher I ever had criticized me for it and demanded that I improve my mental math skills.",
+        "toxicity": 0
+    },
+    {
+        "id": 218,
+        "name": "badponies",
+        "comment": "I very much relate to this.",
+        "toxicity": 0
+    },
+    {
+        "id": 219,
+        "name": "ABenevolentDespot",
+        "comment": "",
+        "toxicity": 0
+    },
+    {
+        "id": 220,
+        "name": "MaximusPrime",
+        "comment": "IQ tests are so overrated. Some of the smartest people I know never took one.",
+        "toxicity": 0
+    },
+    {
+        "id": 221,
+        "name": "SmartAss",
+        "comment": "Just because you have a high IQ doesn't mean you're not an idiot in real life situations.",
+        "toxicity": 1
+    },
+    {
+        "id": 222,
+        "name": "MrSarcasm",
+        "comment": "Yeah, because IQ is the ultimate measure of a person's worth. Sure...",
+        "toxicity": 0
+    },
+    {
+        "id": 223,
+        "name": "TheRealDeal",
+        "comment": "Intelligence is not just about solving problems quickly; it's about solving them correctly.",
+        "toxicity": 0
+    },
+    {
+        "id": 224,
+        "name": "BookWorm",
+        "comment": "You can be book-smart and still be a fool when it comes to common sense.",
+        "toxicity": 0
+    },
+    {
+        "id": 225,
+        "name": "Brainiac",
+        "comment": "High IQ but can't tie their own shoelaces. Go figure.",
+        "toxicity": 0
+    },
+    {
+        "id": 226,
+        "name": "RealityCheck",
+        "comment": "Sometimes the 'dumbest' people have the best insights because they see things others overlook.",
+        "toxicity": 1
+    },
+    {
+        "id": 227,
+        "name": "MrSpock",
+        "comment": "Logic is the beginning of wisdom, not the end.",
+        "toxicity": 0
+    },
+    {
+        "id": 228,
+        "name": "WiseCracker",
+        "comment": "Being smart doesn't mean you're wise. There's a big difference.",
+        "toxicity": 1
+    },
+    {
+        "id": 229,
+        "name": "StreetSmart",
+        "comment": "Street smarts often beat book smarts when it comes to real-life problems.",
+        "toxicity": 0
+    },
+    {
+        "id": 230,
+        "name": "NoFilter",
+        "comment": "IQ tests are for people who need a number to feel good about themselves.",
+        "toxicity": 0
+    },
+    {
+        "id": 231,
+        "name": "RealityBites",
+        "comment": "If high IQ means always being right, then why are so many 'smart' people so wrong?",
+        "toxicity": 1
+    },
+    {
+        "id": 232,
+        "name": "JustSaying",
+        "comment": "I've met plenty of people with high IQs who couldn't find their way out of a paper bag.",
+        "toxicity": 0
+    },
+    {
+        "id": 233,
+        "name": "TruthHurts",
+        "comment": "Sometimes the truth is simple: overthinking complicates it unnecessarily.",
+        "toxicity": 0
+    },
+    {
+        "id": 234,
+        "name": "CutTheCrap",
+        "comment": "Cut the crap about IQ. Actions speak louder than numbers.",
+        "toxicity": 0
+    },
+    {
+        "id": 235,
+        "name": "NoNonsense",
+        "comment": "High IQ doesn't excuse bad decisions.",
+        "toxicity": 0
+    },
+    {
+        "id": 236,
+        "name": "RealTalk",
+        "comment": "Real intelligence is about making the right choices, not just having the right answers.",
+        "toxicity": 0
+    },
+    {
+        "id": 237,
+        "name": "StraightShooter",
+        "comment": "Sometimes the smartest people are the ones who don't need to prove it.",
+        "toxicity": 0
+    },
+    {
+        "id": 238,
+        "name": "DeepThinker",
+        "comment": "Thinking deeply doesn't always mean thinking correctly.",
+        "toxicity": 1
+    },
+    {
+        "id": 239,
+        "name": "GroundedGenius",
+        "comment": "Genius is grounded in reality, not just high scores on a test.",
+        "toxicity": 0
+    },
+    {
+        "id": 240,
+        "name": "EmpatheticLeader",
+        "comment": "Leaders with high emotional intelligence can inspire and motivate their teams, leading to better collective problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 241,
+        "name": "AdaptableAchiever",
+        "comment": "Adaptability and the ability to pivot when faced with new information are key traits of successful problem solvers.",
+        "toxicity": 0
+    },
+    {
+        "id": 242,
+        "name": "BalancedView",
+        "comment": "Balancing logical reasoning with intuition can often lead to more effective and well-rounded solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 243,
+        "name": "MindfulThinker",
+        "comment": "Mindfulness and the ability to stay calm under pressure can enhance cognitive performance and decision-making.",
+        "toxicity": 0
+    },
+    {
+        "id": 244,
+        "name": "KnowledgeSeeker",
+        "comment": "A thirst for knowledge and continuous self-improvement are hallmarks of truly intelligent individuals.",
+        "toxicity": 0
+    },
+    {
+        "id": 245,
+        "name": "CollaborativeWorker",
+        "comment": "Collaboration and teamwork can lead to more innovative and effective solutions than working alone.",
+        "toxicity": 0
+    },
+    {
+        "id": 246,
+        "name": "ResilientMind",
+        "comment": "Resilience and the ability to bounce back from setbacks are essential qualities for long-term success.",
+        "toxicity": 0
+    },
+    {
+        "id": 247,
+        "name": "SystemsThinker",
+        "comment": "Thinking in terms of systems and understanding how different parts interact can lead to better problem-solving strategies.",
+        "toxicity": 0
+    },
+    {
+        "id": 248,
+        "name": "PragmaticSolver",
+        "comment": "Being pragmatic and focusing on practical solutions rather than theoretical ones can be more effective in many situations.",
+        "toxicity": 0
+    },
+    {
+        "id": 249,
+        "name": "TechSavvy",
+        "comment": "In today's world, technical skills and digital literacy are increasingly important components of intelligence.",
+        "toxicity": 0
+    },
+    {
+        "id": 250,
+        "name": "GlobalPerspective",
+        "comment": "A global perspective and cultural awareness can enhance problem-solving by providing diverse insights and approaches.",
+        "toxicity": 0
+    },
+    {
+        "id": 251,
+        "name": "CuriousCat",
+        "comment": "Curiosity drives innovation and discovery, pushing individuals to explore new ideas and solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 252,
+        "name": "EfficientWorker",
+        "comment": "Efficiency in organizing and prioritizing tasks can improve problem-solving outcomes and productivity.",
+        "toxicity": 0
+    },
+    {
+        "id": 253,
+        "name": "DetailOriented",
+        "comment": "Attention to detail ensures that solutions are thorough and well-considered, reducing the likelihood of errors.",
+        "toxicity": 0
+    },
+    {
+        "id": 254,
+        "name": "StrategicThinker",
+        "comment": "Strategic thinking and planning are essential for addressing complex, long-term challenges effectively.",
+        "toxicity": 0
+    },
+    {
+        "id": 255,
+        "name": "EthicalSolver",
+        "comment": "Ethical considerations are crucial in problem-solving to ensure that solutions are just and equitable.",
+        "toxicity": 0
+    },
+    {
+        "id": 256,
+        "name": "OptimisticOutlook",
+        "comment": "An optimistic outlook can foster resilience and creativity, helping individuals to overcome obstacles.",
+        "toxicity": 0
+    },
+    {
+        "id": 257,
+        "name": "Multidisciplinary",
+        "comment": "Drawing on knowledge from multiple disciplines can lead to more innovative and effective solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 258,
+        "name": "LogicalReasoner",
+        "comment": "Logical reasoning and a structured approach to problem-solving can help in breaking down complex issues.",
+        "toxicity": 0
+    },
+    {
+        "id": 259,
+        "name": "Visionary",
+        "comment": "Having a clear vision and long-term goals can guide problem-solving efforts and ensure they are aligned with larger objectives.",
+        "toxicity": 0
+    },
+    {
+        "id": 260,
+        "name": "ResourcefulRita",
+        "comment": "Being resourceful and making the most of available tools and information is key to effective problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 261,
+        "name": "ThoroughThinker",
+        "comment": "Taking the time to thoroughly analyze a problem often leads to more accurate and effective solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 262,
+        "name": "FutureFocused",
+        "comment": "Thinking about the long-term impact of solutions is crucial for sustainable problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 263,
+        "name": "IntuitiveMind",
+        "comment": "Intuition can sometimes lead to insights that pure logic might miss, especially in complex situations.",
+        "toxicity": 0
+    },
+    {
+        "id": 264,
+        "name": "QuickLearner",
+        "comment": "The ability to quickly learn and adapt is a significant advantage in problem-solving scenarios.",
+        "toxicity": 0
+    },
+    {
+        "id": 265,
+        "name": "MeticulousMike",
+        "comment": "Being meticulous and paying attention to details can prevent errors and improve the quality of solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 266,
+        "name": "BalancedApproach",
+        "comment": "Balancing creativity with logical thinking often results in innovative yet practical solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 267,
+        "name": "CompassionateSolver",
+        "comment": "Compassion can drive solutions that are not only effective but also ethical and empathetic.",
+        "toxicity": 0
+    },
+    {
+        "id": 268,
+        "name": "RationalRandy",
+        "comment": "A rational approach to problem-solving ensures that decisions are based on facts and evidence.",
+        "toxicity": 0
+    },
+    {
+        "id": 269,
+        "name": "FlexibleFreddy",
+        "comment": "Flexibility in thinking allows for adjusting strategies when faced with new information or challenges.",
+        "toxicity": 0
+    },
+    {
+        "id": 270,
+        "name": "InnovativeIvy",
+        "comment": "Innovation is key to finding unique solutions to complex problems.",
+        "toxicity": 0
+    },
+    {
+        "id": 271,
+        "name": "CollaborativeChloe",
+        "comment": "Collaboration often leads to more comprehensive and well-rounded solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 272,
+        "name": "InsightfulIvan",
+        "comment": "Gaining insight from different fields can enhance problem-solving by providing new perspectives.",
+        "toxicity": 0
+    },
+    {
+        "id": 273,
+        "name": "StrategicSally",
+        "comment": "Strategic planning helps in anticipating challenges and preparing effective solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 274,
+        "name": "CriticalCarla",
+        "comment": "Critical thinking involves questioning assumptions and evaluating evidence to make sound decisions.",
+        "toxicity": 0
+    },
+    {
+        "id": 275,
+        "name": "CreativeCal",
+        "comment": "Creative thinking can lead to novel solutions that others might overlook.",
+        "toxicity": 0
+    },
+    {
+        "id": 276,
+        "name": "PersistentPat",
+        "comment": "Persistence is key to overcoming obstacles and achieving long-term goals.",
+        "toxicity": 0
+    },
+    {
+        "id": 277,
+        "name": "ResilientRita",
+        "comment": "Resilience helps in bouncing back from setbacks and continuing to work towards solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 278,
+        "name": "OpenOscar",
+        "comment": "Being open to new ideas and approaches can enhance problem-solving capabilities.",
+        "toxicity": 0
+    },
+    {
+        "id": 279,
+        "name": "EfficientEli",
+        "comment": "Efficiency in organizing and prioritizing tasks can lead to more effective problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 280,
+        "name": "MindfulMandy",
+        "comment": "Mindfulness helps in maintaining focus and reducing stress during problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 281,
+        "name": "CuriousCasey",
+        "comment": "Curiosity drives the desire to explore new ideas and solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 282,
+        "name": "ThoughtfulTheo",
+        "comment": "Thoughtfulness ensures that solutions are well-considered and holistic.",
+        "toxicity": 0
+    },
+    {
+        "id": 283,
+        "name": "PragmaticPam",
+        "comment": "Pragmatism focuses on practical and actionable solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 284,
+        "name": "ResourcefulRex",
+        "comment": "Resourcefulness helps in making the most of available tools and information.",
+        "toxicity": 0
+    },
+    {
+        "id": 285,
+        "name": "DetailedDana",
+        "comment": "Attention to detail can prevent mistakes and improve the quality of solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 286,
+        "name": "BalancedBella",
+        "comment": "Balancing different aspects of a problem leads to more comprehensive solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 287,
+        "name": "EthicalEthan",
+        "comment": "Ethical considerations ensure that solutions are just and fair.",
+        "toxicity": 0
+    },
+    {
+        "id": 288,
+        "name": "VisionaryVince",
+        "comment": "Having a clear vision guides problem-solving efforts towards long-term goals.",
+        "toxicity": 0
+    },
+    {
+        "id": 289,
+        "name": "AdaptableAva",
+        "comment": "Adaptability allows for adjusting strategies when faced with new challenges.",
+        "toxicity": 0
+    },
+    {
+        "id": 290,
+        "name": "CollaborativeCole",
+        "comment": "Collaboration brings together diverse perspectives for better solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 291,
+        "name": "StrategicSid",
+        "comment": "Strategic thinking helps in planning and anticipating future challenges.",
+        "toxicity": 0
+    },
+    {
+        "id": 292,
+        "name": "InsightfulIrene",
+        "comment": "Insight from different fields can provide new perspectives on problems.",
+        "toxicity": 0
+    },
+    {
+        "id": 293,
+        "name": "RationalRae",
+        "comment": "Rational decision-making ensures that solutions are based on facts.",
+        "toxicity": 0
+    },
+    {
+        "id": 294,
+        "name": "CompassionateCasey",
+        "comment": "Compassion drives ethical and empathetic problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 295,
+        "name": "InnovativeIris",
+        "comment": "Innovation leads to unique and effective solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 296,
+        "name": "CriticalCody",
+        "comment": "Critical thinking involves evaluating evidence and questioning assumptions.",
+        "toxicity": 0
+    },
+    {
+        "id": 297,
+        "name": "PersistentPiper",
+        "comment": "Persistence is crucial for overcoming obstacles and achieving success.",
+        "toxicity": 0
+    },
+    {
+        "id": 298,
+        "name": "ResilientRiley",
+        "comment": "Resilience helps in bouncing back from setbacks and continuing efforts.",
+        "toxicity": 0
+    },
+    {
+        "id": 299,
+        "name": "EfficientEvan",
+        "comment": "Efficiency in task management improves problem-solving effectiveness.",
+        "toxicity": 0
+    },
+    {
+        "id": 300,
+        "name": "CuriousCarmen",
+        "comment": "Curiosity drives the exploration of new ideas and solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 301,
+        "name": "ThoroughTheresa",
+        "comment": "Thorough analysis leads to more accurate and effective solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 302,
+        "name": "FutureFocusedFred",
+        "comment": "Thinking about long-term impact is crucial for sustainable problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 303,
+        "name": "IntuitiveIggy",
+        "comment": "Intuition can provide valuable insights in complex situations.",
+        "toxicity": 0
+    },
+    {
+        "id": 304,
+        "name": "QuickQuinn",
+        "comment": "The ability to quickly learn and adapt is a significant advantage.",
+        "toxicity": 0
+    },
+    {
+        "id": 305,
+        "name": "MeticulousMia",
+        "comment": "Being meticulous prevents errors and improves solution quality.",
+        "toxicity": 0
+    },
+    {
+        "id": 306,
+        "name": "BalancedBen",
+        "comment": "Balancing creativity and logic results in practical, innovative solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 307,
+        "name": "CompassionateChris",
+        "comment": "Compassion can lead to ethical and empathetic problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 308,
+        "name": "RationalRobin",
+        "comment": "Rational approaches ensure decisions are based on evidence and facts.",
+        "toxicity": 0
+    },
+    {
+        "id": 309,
+        "name": "FlexibleFaye",
+        "comment": "Flexibility allows for adjusting strategies when new challenges arise.",
+        "toxicity": 0
+    },
+    {
+        "id": 310,
+        "name": "InnovativeIvan",
+        "comment": "Innovation is key to finding unique and effective solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 311,
+        "name": "CollaborativeClara",
+        "comment": "Collaboration brings diverse perspectives for better solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 312,
+        "name": "InsightfulIan",
+        "comment": "Insight from various fields can enhance problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 313,
+        "name": "StrategicSam",
+        "comment": "Strategic planning helps in anticipating and tackling challenges.",
+        "toxicity": 0
+    },
+    {
+        "id": 314,
+        "name": "CriticalClare",
+        "comment": "Critical thinking involves questioning assumptions and evaluating evidence.",
+        "toxicity": 0
+    },
+    {
+        "id": 315,
+        "name": "CreativeCameron",
+        "comment": "Creativity can lead to novel solutions that others might miss.",
+        "toxicity": 0
+    },
+    {
+        "id": 316,
+        "name": "PersistentPeyton",
+        "comment": "Persistence is key to overcoming obstacles and achieving success.",
+        "toxicity": 0
+    },
+    {
+        "id": 317,
+        "name": "ResilientRay",
+        "comment": "Resilience helps in bouncing back from setbacks and continuing efforts.",
+        "toxicity": 0
+    },
+    {
+        "id": 318,
+        "name": "OpenOllie",
+        "comment": "Being open to new ideas can enhance problem-solving capabilities.",
+        "toxicity": 0
+    },
+    {
+        "id": 319,
+        "name": "EfficientElena",
+        "comment": "Efficiency in organizing tasks improves problem-solving outcomes.",
+        "toxicity": 0
+    },
+    {
+        "id": 320,
+        "name": "MindfulMax",
+        "comment": "Mindfulness helps maintain focus and reduce stress during problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 321,
+        "name": "CuriousCaitlin",
+        "comment": "Curiosity drives the exploration of new ideas and solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 322,
+        "name": "ThoughtfulToby",
+        "comment": "Thoughtfulness ensures solutions are well-considered and holistic.",
+        "toxicity": 0
+    },
+    {
+        "id": 323,
+        "name": "PragmaticPatty",
+        "comment": "Pragmatism focuses on practical and actionable solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 324,
+        "name": "ResourcefulRita",
+        "comment": "Resourcefulness helps make the most of available tools and information.",
+        "toxicity": 0
+    },
+    {
+        "id": 325,
+        "name": "DetailedDerek",
+        "comment": "Attention to detail can prevent mistakes and improve solution quality.",
+        "toxicity": 0
+    },
+    {
+        "id": 326,
+        "name": "BalancedBeth",
+        "comment": "Balancing different aspects of a problem leads to more comprehensive solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 327,
+        "name": "EthicalEllie",
+        "comment": "Ethical considerations ensure solutions are just and fair.",
+        "toxicity": 0
+    },
+    {
+        "id": 328,
+        "name": "VisionaryVic",
+        "comment": "Having a clear vision guides problem-solving efforts towards long-term goals.",
+        "toxicity": 0
+    },
+    {
+        "id": 329,
+        "name": "AdaptableAndy",
+        "comment": "Adaptability allows for adjusting strategies when faced with new challenges.",
+        "toxicity": 0
+    },
+    {
+        "id": 330,
+        "name": "CollaborativeCory",
+        "comment": "Collaboration brings together diverse perspectives for better solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 331,
+        "name": "StrategicSophie",
+        "comment": "Strategic thinking helps in planning and anticipating future challenges.",
+        "toxicity": 0
+    },
+    {
+        "id": 332,
+        "name": "InsightfulIvy",
+        "comment": "Insight from different fields can provide new perspectives on problems.",
+        "toxicity": 0
+    },
+    {
+        "id": 333,
+        "name": "RationalRory",
+        "comment": "Rational decision-making ensures that solutions are based on facts.",
+        "toxicity": 0
+    },
+    {
+        "id": 334,
+        "name": "CompassionateCody",
+        "comment": "Compassion drives ethical and empathetic problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 335,
+        "name": "InnovativeIrene",
+        "comment": "Innovation leads to unique and effective solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 336,
+        "name": "CriticalConnor",
+        "comment": "Critical thinking involves evaluating evidence and questioning assumptions.",
+        "toxicity": 0
+    },
+    {
+        "id": 337,
+        "name": "PersistentPenny",
+        "comment": "Persistence is crucial for overcoming obstacles and achieving success.",
+        "toxicity": 0
+    },
+    {
+        "id": 338,
+        "name": "ResilientRob",
+        "comment": "Resilience helps in bouncing back from setbacks and continuing efforts.",
+        "toxicity": 0
+    },
+    {
+        "id": 339,
+        "name": "EfficientEmmett",
+        "comment": "Efficiency in task management improves problem-solving effectiveness.",
+        "toxicity": 0
+    },
+    {
+        "id": 340,
+        "name": "CuriousCalvin",
+        "comment": "Curiosity drives the exploration of new ideas and solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 341,
+        "name": "ThoroughTracy",
+        "comment": "Thorough analysis leads to more accurate and effective solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 342,
+        "name": "FutureFocusedFiona",
+        "comment": "Thinking about long-term impact is crucial for sustainable problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 343,
+        "name": "IntuitiveIsla",
+        "comment": "Intuition can provide valuable insights in complex situations.",
+        "toxicity": 0
+    },
+    {
+        "id": 344,
+        "name": "QuickQuincy",
+        "comment": "The ability to quickly learn and adapt is a significant advantage.",
+        "toxicity": 0
+    },
+    {
+        "id": 345,
+        "name": "MeticulousMason",
+        "comment": "Being meticulous prevents errors and improves solution quality.",
+        "toxicity": 0
+    },
+    {
+        "id": 346,
+        "name": "BalancedBrianna",
+        "comment": "Balancing creativity and logic results in practical, innovative solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 347,
+        "name": "CompassionateCurtis",
+        "comment": "Compassion can lead to ethical and empathetic problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 348,
+        "name": "RationalRiley",
+        "comment": "Rational approaches ensure decisions are based on evidence and facts.",
+        "toxicity": 0
+    },
+    {
+        "id": 349,
+        "name": "FlexibleFinn",
+        "comment": "Flexibility allows for adjusting strategies when new challenges arise.",
+        "toxicity": 0
+    },
+    {
+        "id": 350,
+        "name": "InnovativeImogen",
+        "comment": "Innovation is key to finding unique and effective solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 351,
+        "name": "CollaborativeCasey",
+        "comment": "Collaboration brings diverse perspectives for better solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 352,
+        "name": "InsightfulIsaac",
+        "comment": "Insight from various fields can enhance problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 353,
+        "name": "StrategicStella",
+        "comment": "Strategic planning helps in anticipating and tackling challenges.",
+        "toxicity": 0
+    },
+    {
+        "id": 354,
+        "name": "CriticalCameron",
+        "comment": "Critical thinking involves questioning assumptions and evaluating evidence.",
+        "toxicity": 0
+    },
+    {
+        "id": 355,
+        "name": "CreativeCathy",
+        "comment": "Creativity can lead to novel solutions that others might miss.",
+        "toxicity": 0
+    },
+    {
+        "id": 356,
+        "name": "PersistentParker",
+        "comment": "Persistence is key to overcoming obstacles and achieving success.",
+        "toxicity": 0
+    },
+    {
+        "id": 357,
+        "name": "ResilientRose",
+        "comment": "Resilience helps in bouncing back from setbacks and continuing efforts.",
+        "toxicity": 0
+    },
+    {
+        "id": 358,
+        "name": "OpenOwen",
+        "comment": "Being open to new ideas can enhance problem-solving capabilities.",
+        "toxicity": 0
+    },
+    {
+        "id": 359,
+        "name": "EfficientElla",
+        "comment": "Efficiency in organizing tasks improves problem-solving outcomes.",
+        "toxicity": 0
+    },
+    {
+        "id": 360,
+        "name": "MindfulMaddie",
+        "comment": "Mindfulness helps maintain focus and reduce stress during problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 361,
+        "name": "CuriousColton",
+        "comment": "Curiosity drives the exploration of new ideas and solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 362,
+        "name": "ThoughtfulTara",
+        "comment": "Thoughtfulness ensures solutions are well-considered and holistic.",
+        "toxicity": 0
+    },
+    {
+        "id": 363,
+        "name": "PragmaticPhil",
+        "comment": "Pragmatism focuses on practical and actionable solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 364,
+        "name": "ResourcefulRyan",
+        "comment": "Resourcefulness helps make the most of available tools and information.",
+        "toxicity": 0
+    },
+    {
+        "id": 365,
+        "name": "DetailedDaisy",
+        "comment": "Attention to detail can prevent mistakes and improve solution quality.",
+        "toxicity": 0
+    },
+    {
+        "id": 366,
+        "name": "BalancedBlake",
+        "comment": "Balancing different aspects of a problem leads to more comprehensive solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 367,
+        "name": "EthicalElliot",
+        "comment": "Ethical considerations ensure solutions are just and fair.",
+        "toxicity": 0
+    },
+    {
+        "id": 368,
+        "name": "VisionaryVivian",
+        "comment": "Having a clear vision guides problem-solving efforts towards long-term goals.",
+        "toxicity": 0
+    },
+    {
+        "id": 369,
+        "name": "AdaptableAria",
+        "comment": "Adaptability allows for adjusting strategies when faced with new challenges.",
+        "toxicity": 0
+    },
+    {
+        "id": 370,
+        "name": "CollaborativeCam",
+        "comment": "Collaboration brings together diverse perspectives for better solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 371,
+        "name": "StrategicShawn",
+        "comment": "Strategic thinking helps in planning and anticipating future challenges.",
+        "toxicity": 0
+    },
+    {
+        "id": 372,
+        "name": "InsightfulIsabel",
+        "comment": "Insight from different fields can provide new perspectives on problems.",
+        "toxicity": 0
+    },
+    {
+        "id": 373,
+        "name": "RationalRyder",
+        "comment": "Rational decision-making ensures that solutions are based on facts.",
+        "toxicity": 0
+    },
+    {
+        "id": 374,
+        "name": "CompassionateCassie",
+        "comment": "Compassion drives ethical and empathetic problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 375,
+        "name": "InnovativeIan",
+        "comment": "Innovation leads to unique and effective solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 376,
+        "name": "CriticalClint",
+        "comment": "Critical thinking involves evaluating evidence and questioning assumptions.",
+        "toxicity": 0
+    },
+    {
+        "id": 377,
+        "name": "PersistentPayton",
+        "comment": "Persistence is crucial for overcoming obstacles and achieving success.",
+        "toxicity": 0
+    },
+    {
+        "id": 378,
+        "name": "ResilientRachel",
+        "comment": "Resilience helps in bouncing back from setbacks and continuing efforts.",
+        "toxicity": 0
+    },
+    {
+        "id": 379,
+        "name": "EfficientErica",
+        "comment": "Efficiency in task management improves problem-solving effectiveness.",
+        "toxicity": 0
+    },
+    {
+        "id": 380,
+        "name": "CuriousCooper",
+        "comment": "Curiosity drives the exploration of new ideas and solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 381,
+        "name": "ThoroughTheodore",
+        "comment": "Thorough analysis leads to more accurate and effective solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 382,
+        "name": "FutureFocusedFaith",
+        "comment": "Thinking about long-term impact is crucial for sustainable problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 383,
+        "name": "IntuitiveIsabella",
+        "comment": "Intuition can provide valuable insights in complex situations.",
+        "toxicity": 0
+    },
+    {
+        "id": 384,
+        "name": "QuickQuinton",
+        "comment": "The ability to quickly learn and adapt is a significant advantage.",
+        "toxicity": 0
+    },
+    {
+        "id": 385,
+        "name": "MeticulousMelvin",
+        "comment": "Being meticulous prevents errors and improves solution quality.",
+        "toxicity": 0
+    },
+    {
+        "id": 386,
+        "name": "BalancedBrooke",
+        "comment": "Balancing creativity and logic results in practical, innovative solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 387,
+        "name": "CompassionateCarson",
+        "comment": "Compassion can lead to ethical and empathetic problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 388,
+        "name": "RationalReed",
+        "comment": "Rational approaches ensure decisions are based on evidence and facts.",
+        "toxicity": 0
+    },
+    {
+        "id": 389,
+        "name": "FlexibleFrank",
+        "comment": "Flexibility allows for adjusting strategies when new challenges arise.",
+        "toxicity": 0
+    },
+    {
+        "id": 390,
+        "name": "InnovativeIngrid",
+        "comment": "Innovation is key to finding unique and effective solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 391,
+        "name": "CollaborativeCaleb",
+        "comment": "Collaboration brings diverse perspectives for better solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 392,
+        "name": "InsightfulIra",
+        "comment": "Insight from various fields can enhance problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 393,
+        "name": "StrategicStuart",
+        "comment": "Strategic planning helps in anticipating and tackling challenges.",
+        "toxicity": 0
+    },
+    {
+        "id": 394,
+        "name": "CriticalClaire",
+        "comment": "Critical thinking involves questioning assumptions and evaluating evidence.",
+        "toxicity": 0
+    },
+    {
+        "id": 395,
+        "name": "CreativeChris",
+        "comment": "Creativity can lead to novel solutions that others might miss.",
+        "toxicity": 0
+    },
+    {
+        "id": 396,
+        "name": "PersistentPiper",
+        "comment": "Persistence is key to overcoming obstacles and achieving success.",
+        "toxicity": 0
+    },
+    {
+        "id": 397,
+        "name": "ResilientRuss",
+        "comment": "Resilience helps in bouncing back from setbacks and continuing efforts.",
+        "toxicity": 0
+    },
+    {
+        "id": 398,
+        "name": "OpenOlive",
+        "comment": "Being open to new ideas can enhance problem-solving capabilities.",
+        "toxicity": 0
+    },
+    {
+        "id": 399,
+        "name": "EfficientEve",
+        "comment": "Efficiency in organizing tasks improves problem-solving outcomes.",
+        "toxicity": 0
+    },
+    {
+        "id": 400,
+        "name": "MindfulMiles",
+        "comment": "Mindfulness helps maintain focus and reduce stress during problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 401,
+        "name": "CuriousCourtney",
+        "comment": "Curiosity drives the exploration of new ideas and solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 402,
+        "name": "ThoughtfulTyler",
+        "comment": "Thoughtfulness ensures solutions are well-considered and holistic.",
+        "toxicity": 0
+    },
+    {
+        "id": 403,
+        "name": "PragmaticPreston",
+        "comment": "Pragmatism focuses on practical and actionable solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 404,
+        "name": "ResourcefulRuth",
+        "comment": "Resourcefulness helps make the most of available tools and information.",
+        "toxicity": 0
+    },
+    {
+        "id": 405,
+        "name": "DetailedDylan",
+        "comment": "Attention to detail can prevent mistakes and improve solution quality.",
+        "toxicity": 0
+    },
+    {
+        "id": 406,
+        "name": "BalancedBrett",
+        "comment": "Balancing different aspects of a problem leads to more comprehensive solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 407,
+        "name": "EthicalEleanor",
+        "comment": "Ethical considerations ensure solutions are just and fair.",
+        "toxicity": 0
+    },
+    {
+        "id": 408,
+        "name": "VisionaryViolet",
+        "comment": "Having a clear vision guides problem-solving efforts towards long-term goals.",
+        "toxicity": 0
+    },
+    {
+        "id": 409,
+        "name": "AdaptableAustin",
+        "comment": "Adaptability allows for adjusting strategies when faced with new challenges.",
+        "toxicity": 0
+    },
+    {
+        "id": 410,
+        "name": "CollaborativeCassidy",
+        "comment": "Collaboration brings together diverse perspectives for better solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 411,
+        "name": "StrategicSteve",
+        "comment": "Strategic thinking helps in planning and anticipating future challenges.",
+        "toxicity": 0
+    },
+    {
+        "id": 412,
+        "name": "InsightfulIvy",
+        "comment": "Insight from different fields can provide new perspectives on problems.",
+        "toxicity": 0
+    },
+    {
+        "id": 413,
+        "name": "RationalRoss",
+        "comment": "Rational decision-making ensures that solutions are based on facts.",
+        "toxicity": 0
+    },
+    {
+        "id": 414,
+        "name": "CompassionateCameron",
+        "comment": "Compassion drives ethical and empathetic problem-solving.",
+        "toxicity": 0
+    },
+    {
+        "id": 415,
+        "name": "InnovativeIvy",
+        "comment": "Innovation leads to unique and effective solutions.",
+        "toxicity": 0
+    },
+    {
+        "id": 416,
+        "name": "CriticalCasey",
+        "comment": "Critical thinking involves evaluating evidence and questioning assumptions.",
+        "toxicity": 0
+    },
+    {
+        "id": 417,
+        "name": "PersistentPatty",
+        "comment": "Persistence is crucial for overcoming obstacles and achieving success.",
+        "toxicity": 0
+    }
+]
